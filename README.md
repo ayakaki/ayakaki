@@ -1,20 +1,22 @@
 ## About me
 
-### Skills
+I am a full stack front-end engineer with my area of expertise working for a startup in its third term.
 
-#### Langages
+## Skills
+
+### Langages
 
 HTML | CSS | SCSS | JavaScript | TypeScript | Java | C# 
 
-#### Frameworks
+### Frameworks
 
 React.js | Next.js | NestJS | SpringBoot
 
-#### Databases
+### Databases
 
 MySQL | PostgreSQL
 
-#### Cloud
+### Cloud
 
 AWS | Azure
 
