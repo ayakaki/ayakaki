@@ -1,7 +1,3 @@
-## About me
-
-I am a full stack front-end engineer with my area of expertise working for a startup in its third term.
-
 ## Skills
 
 ### Langages
