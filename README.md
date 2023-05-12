@@ -1,6 +1,6 @@
 ## Skills
 
-### Langages
+### Languages
 
 HTML | CSS | SCSS | JavaScript | TypeScript | Java | C# 
 
