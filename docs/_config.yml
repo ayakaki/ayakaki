@@ -1,3 +1,4 @@
 remote_theme: pages-themes/minimal@v0.2.0
-title: 船場遼の職務経歴書
-description: 船場遼の職務経歴書
+plugins:
+- jekyll-remote-theme
+title: 職務経歴書
