@@ -7,6 +7,7 @@
 |生年月|1995年3月|
 |居住地|神奈川県川崎市|
 |最終学歴|千葉大学理学部|
+|Zenn|[@kakio](https://zenn.dev/kakio)|
 |資格|応用情報技術者試験 / Java SE 11 Programmer I・II / 簿記2級 / FP2級|
 
 ## バリューを発揮しやすい業務
