@@ -2,11 +2,11 @@
 
 ### Languages
 
-HTML | CSS | SCSS | JavaScript | TypeScript | Java | C# 
+HTML | CSS | SCSS | JavaScript | TypeScript | Java
 
 ### Frameworks
 
-React.js | Next.js | NestJS | SpringBoot
+React.js | Next.js | SpringBoot
 
 ### Databases
 
