@@ -24,40 +24,15 @@
 - テスト自動化やパイプライン構築など長期的なアプリケーション運用を見据えた上でのDevOpsの構築
 
 ## スキル
-### 開発手法
-アジャイル / ウォーターフォール
 
-### 言語 / フレームワーク
-**【言語】**
-
-TypeScript / JavaScript / Java / HTML / CSS(Sass)
-
-**【フレームワーク】**
-
-Next.js / React.js / Springboot / Micronaut
-
-### 通信プロトコル
-REST
-
-### RDB
-MySQL / PostgreSQL
-
-### Cloud
-- AWS
-  - ECS / Fargate / EC2 / Batch / ALB / Aurora / Lambda / SNS / SQS / S3 / CloudWatch / IAM / Kinesis Data Stream / Kinesis Firehose
-- Azure
-  - EventHubs / Azure VM
-- Other
-  - Vercel
-  - PlanetScale
-
-### SaaS/PaaS
-
-GitHub / GitHub Actions / BitBucket / Jira / Confluence / ServiceNow
-
-### その他
-
-Docker / OpenAPI / Jenkins / jMeter
+| カテゴリ | 内容 |
+|---------|------|
+| 言語 | TypeScript / JavaScript / Java / HTML / CSS(Sass) |
+| フレームワーク | Next.js / React.js / Springboot / Micronaut |
+| DB | MySQL / PostgreSQL |
+| Cloud | AWS（ECS, Fargate, EC2, Batch, ALB, Aurora, Lambda, SNS, SQS, S3, CloudWatch, IAM, Kinesis Data Stream/Firehose）/ Azure（EventHubs, VM）/ Vercel / PlanetScale |
+| ツール | Docker / GitHub Actions / Jenkins / jMeter / OpenAPI |
+| SaaS | GitHub / BitBucket / Jira / Confluence / ServiceNow |
 
 ## 職務経歴詳細
 
